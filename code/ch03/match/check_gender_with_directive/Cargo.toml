@@ -1,0 +1,6 @@
+[package]
+name = "check_gender_with_directive"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
