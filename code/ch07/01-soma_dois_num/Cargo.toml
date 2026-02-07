@@ -1,0 +1,8 @@
+[package]
+name = "soma_dois_num"
+version = "0.1.0"
+edition = "2021"
+authors = ["Gerson Barboza barson.lixo@gmail.com"]
+
+[dependencies]
+num = "0.3"
