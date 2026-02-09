@@ -1,0 +1,3 @@
+nome: Rachel Karen Green
+idade: 30
+avaliação: 10
